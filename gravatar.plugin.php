@@ -20,7 +20,7 @@ class Gravatar extends Plugin {
 	public function info() {
 		return array(
 			'name' => 'Gravatar',
-			'version' => '0.5-1.3',
+			'version' => '1.3.1',
 			'url' => 'http://habariproject.org/',
 			'author' =>	'Habari Community',
 			'authorurl' => 'http://habariproject.org/',
